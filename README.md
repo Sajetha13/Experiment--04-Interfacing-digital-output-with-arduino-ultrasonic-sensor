@@ -1,8 +1,10 @@
 # EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
-###  DATE: 08/03/2024
-###  NAME: S.Sajetha
-###  ROLL NO : 212223100049
-###  DEPARTMENT: CSE (Cyber Security)
+
+##  DATE: 08/03/2024
+##  NAME: S.Sajetha
+##  ROLL NO : 212223100049
+##  DEPARTMENT: CSE (Cyber Security)
+
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
